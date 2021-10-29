@@ -13,8 +13,8 @@ firebase.initializeApp({
     projectId: "attendancepwa-e8305",
     storageBucket: "attendancepwa-e8305.appspot.com",
     messagingSenderId: "751666883415",
-    appId: "1:751666883415:web:82cbb0080bc6a3f30a6c12",
-    measurementId: "G-HTR85R42RM"
+    appId: "1:751666883415:web:85d36539a916d3d20a6c12",
+    measurementId: "G-WDBEL9GXEY"
 });
 
 // Retrieve an instance of Firebase Messaging so that it can handle background
