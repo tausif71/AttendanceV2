@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1635753404608,
+  "timestamp": 1635754043588,
   "index": "/AttendanceV2/index.html",
   "assetGroups": [
     {
@@ -15,7 +15,7 @@
         "/AttendanceV2/favicon.ico",
         "/AttendanceV2/firebase-messaging-sw.js",
         "/AttendanceV2/index.html",
-        "/AttendanceV2/main.15278a7baee28b25f4d4.js",
+        "/AttendanceV2/main.55a88f5fe090ff412b58.js",
         "/AttendanceV2/manifest.webmanifest",
         "/AttendanceV2/polyfills.94daefd414b8355106ab.js",
         "/AttendanceV2/runtime.cab3bbfb7f3dcc15b280.js",
@@ -126,8 +126,8 @@
     "/AttendanceV2/assets/vendors/tempusdominus-bootstrap-4/tempusdominus-bootstrap-4.min.css": "c92120930fe0af4e343de316b3792706fc7ffe65",
     "/AttendanceV2/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/AttendanceV2/firebase-messaging-sw.js": "aad3c3eda47df14bf15096106392097a3241694b",
-    "/AttendanceV2/index.html": "8c7e16d516119935189ad54506dc2e4b5c8c00ce",
-    "/AttendanceV2/main.15278a7baee28b25f4d4.js": "1386786d21bdd2b2d0c0600c4f785493d7637eb3",
+    "/AttendanceV2/index.html": "ce8562d7c2977a7625783206ce9643cd451c9d89",
+    "/AttendanceV2/main.55a88f5fe090ff412b58.js": "d34737b4ced302e184e4b8b37c351fe38512a246",
     "/AttendanceV2/manifest.webmanifest": "e47e1900b058deac3d1666034687bdd03895530b",
     "/AttendanceV2/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
     "/AttendanceV2/runtime.cab3bbfb7f3dcc15b280.js": "88e92a0bcbd29710f7d02f0f335a062825666d8f",
