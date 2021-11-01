@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1635754043588,
+  "timestamp": 1635760242331,
   "index": "/AttendanceV2/index.html",
   "assetGroups": [
     {
@@ -15,11 +15,11 @@
         "/AttendanceV2/favicon.ico",
         "/AttendanceV2/firebase-messaging-sw.js",
         "/AttendanceV2/index.html",
-        "/AttendanceV2/main.55a88f5fe090ff412b58.js",
+        "/AttendanceV2/main.f91101d660d99b4b9e10.js",
         "/AttendanceV2/manifest.webmanifest",
         "/AttendanceV2/polyfills.94daefd414b8355106ab.js",
         "/AttendanceV2/runtime.cab3bbfb7f3dcc15b280.js",
-        "/AttendanceV2/styles.9fe8c3248ca8e149f5c6.css"
+        "/AttendanceV2/styles.1eca38adf0263a6bbf0e.css"
       ],
       "patterns": []
     },
@@ -37,6 +37,7 @@
         "/AttendanceV2/assets/fonts/feather-font/fonts/feather.svg",
         "/AttendanceV2/assets/fonts/feather-font/fonts/feather.ttf",
         "/AttendanceV2/assets/fonts/feather-font/fonts/feather.woff",
+        "/AttendanceV2/assets/icons/attendance.png",
         "/AttendanceV2/assets/icons/icon-128x128.png",
         "/AttendanceV2/assets/icons/icon-144x144.png",
         "/AttendanceV2/assets/icons/icon-152x152.png",
@@ -87,6 +88,7 @@
     "/AttendanceV2/assets/fonts/feather-font/fonts/feather.svg": "184823ddedba6d0e96e8139de41fb3fde1ab0264",
     "/AttendanceV2/assets/fonts/feather-font/fonts/feather.ttf": "68d0c7b2c956c872f085d35f862c90d7e84d606b",
     "/AttendanceV2/assets/fonts/feather-font/fonts/feather.woff": "72ecc1f78ba2436dedbad4a4ebd18a9b0c1c02de",
+    "/AttendanceV2/assets/icons/attendance.png": "b9140d42b9e4f2e034f1a6580ba3c71c3f002c98",
     "/AttendanceV2/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/AttendanceV2/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/AttendanceV2/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -126,12 +128,12 @@
     "/AttendanceV2/assets/vendors/tempusdominus-bootstrap-4/tempusdominus-bootstrap-4.min.css": "c92120930fe0af4e343de316b3792706fc7ffe65",
     "/AttendanceV2/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/AttendanceV2/firebase-messaging-sw.js": "aad3c3eda47df14bf15096106392097a3241694b",
-    "/AttendanceV2/index.html": "ce8562d7c2977a7625783206ce9643cd451c9d89",
-    "/AttendanceV2/main.55a88f5fe090ff412b58.js": "d34737b4ced302e184e4b8b37c351fe38512a246",
+    "/AttendanceV2/index.html": "244e66006afbab555eac69db75764b301b6da398",
+    "/AttendanceV2/main.f91101d660d99b4b9e10.js": "a69ef39acd53c95817bea85a892c7adacacd4d14",
     "/AttendanceV2/manifest.webmanifest": "e47e1900b058deac3d1666034687bdd03895530b",
     "/AttendanceV2/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
     "/AttendanceV2/runtime.cab3bbfb7f3dcc15b280.js": "88e92a0bcbd29710f7d02f0f335a062825666d8f",
-    "/AttendanceV2/styles.9fe8c3248ca8e149f5c6.css": "8dc934c14a54265d58c4e8788ac5c19cd6be4942"
+    "/AttendanceV2/styles.1eca38adf0263a6bbf0e.css": "313a72dafd7855fdaf1df1e6bfd49d3b85335b81"
   },
   "navigationUrls": [
     {
